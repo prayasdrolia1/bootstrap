@@ -1,6 +1,6 @@
 .row-header {
     margin: 0px auto;
-    padding: 0p auto
+    padding: 0px auto
 }
 
 .row-content {
@@ -27,4 +27,12 @@
     font-size:80%;
     margin: 0px;
     color: #0f0f0f;
+}
+
+body {
+    margin: 50px 0px 0px 0px;
+}
+
+.navbar-dark {
+    background-color: #512da8;
 }
